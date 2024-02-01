@@ -3,7 +3,6 @@
 <body>
 
   <a href="https://jordan-valley-shawarma.square.site/">Resturant Recommendation</a>
-<a href="https://jordan-valley-shawarma.square.site/">Resturant Recommendation</a>
 
 </body>
 </html>

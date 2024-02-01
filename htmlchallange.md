@@ -13,7 +13,7 @@
 
 <p> in elementary we learned that 2<sup>2</sup> equals 4 and 2<sup>3</sup> equals 8 </p>
 
-<p> in uni we learned that the dot over VO<sup>2</sup> means rate of </p>
+<p> in uni we learned that the dot over V&#775O<sup>2</sup> means rate of </p>
 		</td>
 		<td>
 		<img src="https://media.onthemarket.com/properties/13899809/1465804485/image-3-1024x1024.jpg" alt="castle in scotland" width="512" height="512">
@@ -21,7 +21,7 @@
 	</tr>
 </table>
 
-<a href="https://github.com/salsaket/KNES381/blob/subfolder-in-main-branch/markdownpractice.md"> This link leads to my markdown practice file in a subfolder in the main branch of my github</a>
+<a href="https://github.com/salsaket/KNES381/blob/main/subfolder/randomfile.md"> This link leads to a file in a subfolder with another hyperlink to a restaurant recommendation</a>
 
 </body>
 </html>

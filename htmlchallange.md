@@ -9,11 +9,7 @@
 		<td>
 <p> This is my first sentence in html. </p>
 
-<p> <span style="color: red;">This is a red sentence.</span> </p>
-
-<p style="color:red;">This is red text.</p>
-
-<a style="color: red;"> This is red text </a>
+[This is blue text](#)<!--(blue)-->
 
 <p> in elementary we learned that 2<sup>2</sup> equals 4 and 2<sup>3</sup> equals 8 </p>
 
@@ -25,7 +21,7 @@
 	</tr>
 </table>
 
-<a href/"https://github.com/salsaket/KNES381/blob/subfolder-in-main-branch/markdownpractice.md"> This link leads to a file in a subfolder in the main branch of my github </a>
+<a href=/"https://github.com/salsaket/KNES381/blob/subfolder-in-main-branch/markdownpractice.md">This link leads to a file in a subfolder in the main branch of my github</a>
 
 </body>
 </html>

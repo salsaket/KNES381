@@ -7,7 +7,6 @@
 <table>
 	<tr>
 		<td>
-
 <p> This is my first sentence in html. </p>
 
 <p> style="color:red;"> This is a red paragraph. </p>
@@ -17,15 +16,11 @@
 <p> in uni we learned that the dot over VO<sup>2</sup> means rate of </p>
 
 <a href/"https://github.com/salsaket/KNES381/blob/subfolder-in-main-branch/markdownpractice.md"> This link leads to a file in a subfolder in the main branch of my github </a>
-
 		</td>
-
 		<td>
 		<img src="https://media.onthemarket.com/properties/13899809/1465804485/image-3-1024x1024.jpg" alt="castle in scotland" width="256" height="256">
 		</td>
-
 	</tr>
-
 </table>
 
 </body>

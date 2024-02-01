@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1 style="text-align:center;"> This is my centered header </h1>
+<h1 align="center"> This is my centered header </h1>
 
 <table>
 	<tr>
@@ -11,7 +11,9 @@
 
 <p> <span style="color: red;">This is a red sentence.</span> </p>
 
-<span style="color: red;">This is red text.</span>
+<p style="color:red;">This is red text.</p>
+
+[This is red text](#)<!--(red)-->
 
 <p> in elementary we learned that 2<sup>2</sup> equals 4 and 2<sup>3</sup> equals 8 </p>
 

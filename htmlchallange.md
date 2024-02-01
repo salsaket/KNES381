@@ -9,7 +9,7 @@
 		<td>
 <p> This is my first sentence in html. </p>
 
-<p> <font color="red"> This is a red sentence. </font> </p>
+<p> <span style="color: red;">This is a red sentence.</span> </p>
 
 <p> in elementary we learned that 2<sup>2</sup> equals 4 and 2<sup>3</sup> equals 8 </p>
 

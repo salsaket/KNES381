@@ -21,7 +21,7 @@
 	</tr>
 </table>
 
-<a href="https://github.com/salsaket/KNES381/blob/subfolder-in-main-branch/markdownpractice.md"> This link leads to a file in a subfolder in the main branch of my github</a>
+<a href="https://github.com/salsaket/KNES381/blob/subfolder-in-main-branch/markdownpractice.md"> This link leads to my markdown practice file in a subfolder in the main branch of my github</a>
 
 </body>
 </html>

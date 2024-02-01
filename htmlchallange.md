@@ -11,6 +11,8 @@
 
 <p> <span style="color: red;">This is a red sentence.</span> </p>
 
+<span style="color: red;">This is red text.</span>
+
 <p> in elementary we learned that 2<sup>2</sup> equals 4 and 2<sup>3</sup> equals 8 </p>
 
 <p> in uni we learned that the dot over VO<sup>2</sup> means rate of </p>

@@ -21,7 +21,7 @@
 	</tr>
 </table>
 
-<a href="https://github.com/salsaket/KNES381/blob/main/subfolder/randomfile.md"> This link leads to a file in a subfolder with another hyperlink to a restaurant recommendation</a>
+<a href="https://github.com/salsaket/KNES381/blob/main/subfolder/randomfile.md"> This link leads to a file in a subfolder with a photo and hyperlink to a restaurant recommendation</a>
 
 </body>
 </html>

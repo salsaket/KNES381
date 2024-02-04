@@ -13,7 +13,7 @@
 
 <p> in elementary we learned that 2<sup>2</sup> equals 4 and 2<sup>3</sup> equals 8 </p>
 
-<p> in uni we learned that the dot over v&#x0307O<sub>2</sub> means rate of </p>
+<p> in uni we learned that the dot over V&#x0307;O<sub>2</sub> means rate of </p>
 		</td>
 		<td>
 		<img src="https://media.onthemarket.com/properties/13899809/1465804485/image-3-1024x1024.jpg" alt="castle in scotland" width="300" height="300">
